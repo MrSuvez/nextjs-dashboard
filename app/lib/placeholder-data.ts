@@ -4,7 +4,7 @@ const users = [
   {
     id: '410544b2-4001-4271-9855-fec4b6a6442a',
     name: 'User',
-    email: 'user@suvimail.com',
+    email: 'user@nextmail.com',
     password: 'demo-app-router-23',
   },
 ];
