@@ -15,7 +15,7 @@ export default function Page() {
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20">
         <div
   />
-          <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
+          <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal`}>
             <strong>Welcome.</strong> <br/>
             This is an example for the Next.js App Router built by Suveer P. Contact me for login details.<br/>
             <a href="https://nz.linkedin.com/in/suveerp" className="text-blue-500">
