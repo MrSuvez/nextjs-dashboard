@@ -13,6 +13,3 @@ https://github.com/MrSuvez/nextjs-dashboard
 local: http://localhost:3000/
 hosted: https://nextjs-dashboard-eosin-rho-13.vercel.app/
 
-Email: user@nextmail.com
-Password: 
-
