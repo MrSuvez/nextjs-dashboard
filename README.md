@@ -10,10 +10,9 @@ https://vercel.com/home :: mrsuvez
 https://github.com/MrSuvez/nextjs-dashboard
 
 
-http://localhost:3000/
+local: http://localhost:3000/
+hosted: https://nextjs-dashboard-eosin-rho-13.vercel.app/
 
 Email: user@nextmail.com
-Password: 123456
-
-url: nextjs-dashboard-eosin-rho-13.vercel.app
+Password: 
 
