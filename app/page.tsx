@@ -17,11 +17,11 @@ export default function Page() {
   />
           <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal`}>
             <strong>Welcome.</strong> <br/>
-            This is an example for the Next.js App Router built by Suveer P. Contact me for login details.<br/>
+            This is an example of the Next.js App Router demo built by &nbsp;
             <a href="https://nz.linkedin.com/in/suveerp" className="text-blue-500">
-              Suveer P LinkedIn
+              Suveer P (LinkedIn)
             </a>
-          </p>
+          </p><br/> Feel free to contact me for login details.<br/>
           <Link
             href="/login"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
@@ -32,7 +32,7 @@ export default function Page() {
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
           {/* Add Hero Images Here */}
           <Image
-            src="/hero-desktop.png"
+            src="/hero-desktop.webp"
             width={1000}
             height={760}
             className="hidden md:block"
